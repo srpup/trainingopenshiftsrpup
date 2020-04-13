@@ -1,0 +1,2 @@
+# trainingopenshiftsrpup
+training oc project
